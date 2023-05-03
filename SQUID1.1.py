@@ -13,6 +13,7 @@ encodersList = []
 newroomname = ''
 newroomnumber = ''
 
+
 class Decoder:
     def __init__(self,ip,name):
         self.ip = ip
